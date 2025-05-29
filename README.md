@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L98293)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L98293)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!--
 **L98293/L98293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
