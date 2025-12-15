@@ -21,6 +21,7 @@
 
 # Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L98293)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L98293)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **L98293/L98293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
