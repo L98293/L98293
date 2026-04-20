@@ -20,6 +20,6 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)<br>
 
 # Github
-![Streak](https://streak-stats.demolab.com/?user=L98293&theme=tokyonight)
-![Github Status](https://github-readme-stats.vercel.app/api?username=L98293&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=L98293&theme=tokyonight)<br>
+![Github Status](https://github-readme-stats.vercel.app/api?username=L98293&theme=tokyonight)<br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L98293&theme=tokyonight)
