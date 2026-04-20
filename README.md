@@ -21,5 +21,5 @@
 
 # Github
 ![Streak](https://streak-stats.demolab.com/?user=L98293&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=L98293)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L98293)
+![Github Status](https://github-readme-stats.vercel.app/api?username=L98293&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L98293&theme=tokyonight)
