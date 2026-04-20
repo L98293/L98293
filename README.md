@@ -20,7 +20,7 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)<br>
 
 # Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L98293)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L98293)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L98293)
 <!--
 **L98293/L98293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
