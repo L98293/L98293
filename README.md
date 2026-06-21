@@ -12,8 +12,8 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)<br>
 
 # BlockChain<br>
-![Blockchaindotcom](https://img.shields.io/badge/blockchain.com-%232F3134?style=for-the-badge&logo=blockchaindotcom&logoColor=white)<br>
-![Cosmos-SDK] (https://img.shields.io/badge/cosmos%20sdk-2E3148.svg?style=for-the-badge&logoColor=white)<br>
+![Blockchaindotcom](https://img.shields.io/badge/blockchain.com-%232F3134?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+![Cosmos-SDK](https://img.shields.io/badge/cosmos%20sdk-2E3148.svg?style=for-the-badge&logoColor=white)<br>
 
 # Tools / OS<br>
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)<br>
